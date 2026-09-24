@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific files
+
+PROJECTS/vectorstore/
+PROJECTS/RAG/AI Medical Chatbot/data/
+
+# RAG generated vector database
+PROJECTS/vectorstore/
+
+# RAG source documents / PDFs
+PROJECTS/RAG/AI Medical Chatbot/data/
